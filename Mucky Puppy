@@ -1,0 +1,9 @@
+{
+    "project": "Mucky Puppy",
+    "tags" : [
+    "Mucky Puppy"
+    ],
+    "policies": [
+        "policy1",
+            ]
+}
